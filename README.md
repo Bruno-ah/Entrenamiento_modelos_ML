@@ -1,5 +1,5 @@
 # Entrenamiento_modelos_ML
 Usar libreria LazyPredict para entrenar modelos simultaneamente (regresión y/o clasisficación)
-https://www.worldatlas.com/r/w1200-q80/upload/a4/91/91/shutterstock-1708408498.jpg
+![image](https://github.com/user-attachments/assets/30c2d2e1-3ba1-44a5-a3cc-7b36465386ed)
 ## **Ejercicio:**
 Gráficar la siguiente función: $Z(X, Y) = \frac{\sin\left(\sqrt{X^2 + Y^2}\right)}{\sqrt{X^2 + Y^2}}$
